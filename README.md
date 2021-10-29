@@ -1,2 +1,2 @@
 # hello-word
-New on Github !
+I'm new on GitHub and I'm doing some tests !
